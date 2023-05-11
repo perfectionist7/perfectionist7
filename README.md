@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @perfectionist7 (Ayush Khandelwal)
-- 👀 I’m interested in Web Dev, App Dev, Competitive Coding, Game Dev, Artifical Intelligence, Machine Learning, Cybersecurity, and various other coding languages
-- 🌱 I’m currently learning App Development, Web Development, C++, C#, Python, Java
-- 💞️ I’m looking to collaborate on App Development (Especially Flutter), Web Development Frontend (HTML, CSS, Java Script), Languages such as C++, C#, Python, Java
+- 👀 I’m interested in Web Dev, App Dev, Competitive Coding, AI, ML, Cybersecurity
+- 🌱 I’m currently learning App Dev (Flutter), Web Dev (MERN Stack) & DSA
+- 💞️ I’m looking to collaborate on App Development (Especially Flutter), Web Development Frontend (React.js)
 - 📫 How to reach me: ----> Drop an email @ akhandelwal2003@gmail.com (I will surely reply :D )
 - 💯 Portfolio Site ---> https://perfectionist7.github.io/Portfolio-Site/
 
